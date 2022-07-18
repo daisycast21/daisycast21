@@ -9,5 +9,5 @@ I received my Masters in Public Health with a focus on Health Promotion and Dise
 * [SQL+Tableau: Trend analysis of COVID-19 cases ata university during the 2021-2022 academic year](https://github.com/daisycast21/CSUF_Data_Exploration)
 
 ### 📉Tableau
-
+* [Tableau project displaying various projects.](https://public.tableau.com/app/profile/daisy.castro) 
 
